@@ -1,9 +1,11 @@
-##**Software Requirements Specification**
+# Software Requirements Specification
     Team Members:    
     Jacob Taylor
-	Tristan Porter
-#Online store
-Intended Requirements
+    Tristan Porter
+    
+## Online store
+
+Intended Requirements:
 
 - Shopping cart to hold items
 - Ability to show prices of items
