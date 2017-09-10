@@ -1,7 +1,7 @@
 ## Homework 01
 ### CPSC 4175
-###Jacob Taylor
-###8/15/17
+### Jacob Taylor
+### 8/15/17
 
 1. The four perceived components of the software crisis
 are software being delivered late, over budget, with severe faults or bugs,
