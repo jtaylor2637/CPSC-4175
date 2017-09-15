@@ -18,7 +18,7 @@
 ##### 3.2.2 Order
     3.1.2.1 The application shall allow the user to place an order of desired items
     3.1.2.2 The application shall allow the user to view the items in a specific order
-    3 .1.2.3 The application shall assign an order number to every order
+    3.1.2.3 The application shall assign an order number to every order
     3.1.2.4 The application shall allow the user to cancel an order
     3.1.2.5 The application shall allow the user to view the shipping status of an order
     3.1.2.6 The application shall keep track of all orders for a user
